@@ -1,0 +1,23 @@
+{
+  "name": "random-winner-web",
+  "version": "1.0.0",
+  "description": "A web project that selects a random winner each week from a list of one-time usernames for a prize.",
+  "main": "src/scripts/app.js",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build step not defined'",
+    "test": "echo 'No tests defined'"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "random",
+    "winner",
+    "username",
+    "prize"
+  ]
+}
